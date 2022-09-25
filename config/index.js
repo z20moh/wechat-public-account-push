@@ -60,7 +60,7 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [zmohstudio
+  USERS: [o31ep6DYrQ7ij5dAjW6UdR9DCrJ8]
     {
       // 想要发送的人的名字
       name: 'DEAR WY',
